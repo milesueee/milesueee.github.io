@@ -1,16 +1,13 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "@miles/portfolio",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "3.0.0",
   "type": "module",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "milesueee",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
-  },
-  "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/milesueee/miles-portfolio.git"
   },
   "scripts": {
     "dev": "vite",
